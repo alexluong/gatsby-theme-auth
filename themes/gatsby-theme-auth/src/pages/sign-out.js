@@ -1,7 +1,7 @@
 import React from "react"
 
-function SignOut() {
+export function SignOutPage() {
   return <div>Sign Out</div>
 }
 
-export default SignOut
+export default SignOutPage
