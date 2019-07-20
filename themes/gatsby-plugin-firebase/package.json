@@ -1,0 +1,11 @@
+{
+  "name": "gatsby-plugin-firebase",
+  "version": "0.1.0",
+  "license": "MIT",
+  "peerDependencies": {
+    "firebase": "^6.3.1",
+    "gatsby": "^2.13.28",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  }
+}
